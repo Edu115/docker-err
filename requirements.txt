@@ -1,4 +1,7 @@
-err==3.0.1
+err==3.0.3
 sleekxmpp
-irc
+pyasn1
 pyasn1-modules
+dnspython3
+dnspython
+hypchat
