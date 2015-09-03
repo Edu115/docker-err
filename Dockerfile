@@ -2,7 +2,7 @@
 
 FROM debian:jessie
 
-MAINTAINER Rafael Römhild <rafael@roemhild.de>
+MAINTAINER Eduardo Neves <eduardo@funda.nl>
 
 ENV ERR_USER err
 ENV DEBIAN_FRONTEND noninteractive
